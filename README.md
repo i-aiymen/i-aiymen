@@ -31,4 +31,8 @@ I'm a passionate Full Stack Web And Flutter Developer and I am interested in dev
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-aiymen&layout=compact&theme=tokyonight)
 
+## 🔥 Streak Stats
+
+![streaks](https://github-readme-streak-stats.herokuapp.com/?user=i-aiymen&theme=monokai-metallian&hide_border=true)
+
 [linkedin]: https://www.linkedin.com/in/aiymenlatheef/
