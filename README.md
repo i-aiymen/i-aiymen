@@ -1,5 +1,6 @@
 ### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Muhammed Ayimen Abdul Latheef</h1>
 [<img align="center" height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img align="center" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][LinkedIn]
 ## 🙋‍♂️ About Me
 
 I'm a passionate Full Stack Web And Flutter Developer and I am interested in developing new things which excite me a lot. I love exploring new technologies and being a practitioner, I like to stay on top of latest trends :)
@@ -36,3 +37,4 @@ I'm a passionate Full Stack Web And Flutter Developer and I am interested in dev
 ![streaks](https://github-readme-streak-stats.herokuapp.com/?user=i-aiymen&theme=monokai-metallian&hide_border=true)
 
 [linkedin]: https://www.linkedin.com/in/aiymenlatheef/
+[gmail]: mailto:aiymenlatheef03@gmail.com
