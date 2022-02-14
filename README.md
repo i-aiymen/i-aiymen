@@ -6,7 +6,7 @@
 I'm a passionate Full Stack Web And Flutter Developer and I am interested in developing new things which excite me a lot. I love exploring new technologies and being a practitioner, I like to stay on top of latest trends :)
 
 
-### My Tech Toolbox 🧰
+## 🧰 My Tech Toolbox 
 
 <p align="left"> 
     <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
