@@ -16,6 +16,7 @@ I'm a passionate Full Stack Web And Flutter Developer and I am interested in dev
     <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>  
     <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
     <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a>
+    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ruby.png"/> </a>
     <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/php.png"/> </a> 
