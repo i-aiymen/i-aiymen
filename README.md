@@ -3,7 +3,7 @@
 [<img align="center" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 ## 🙋‍♂️ About Me
 
-I'm a passionate Full Stack Web And Flutter Developer and I am interested in developing new things which excite me a lot. I love exploring new technologies and being a practitioner, I like to stay on top of latest trends :)
+I'm a passionate Full Stack Flutter and Web Developer and I am interested in developing new things which excite me a lot. I love exploring new technologies and being a practitioner, I like to stay on top of latest trends :)
 
 
 ## 🧰 My Tech Toolbox 
