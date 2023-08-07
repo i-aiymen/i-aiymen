@@ -109,7 +109,7 @@ I'm a passionate Full Stack Flutter and Web Developer and I am interested in dev
 
 ## 📊 My Github Stats
 
-  ![Muhammed Ayimen's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-aiymen&count_private=true&show_icons=true&theme=radical)
+  ![Muhammed Ayimen's GitHub stats](https://raw.githubusercontent.com/i-aiymen/github-stats/master/generated/overview.svg#gh-dark-mode-only)
   
 ## ✨ Top Languages Card
 
