@@ -6,7 +6,7 @@
 I'm a passionate Full Stack Flutter and Web Developer and I am interested in developing new things which excite me a lot. I love exploring new technologies and being a practitioner, I like to stay on top of latest trends :)
 
 
-## 🧰 My Tech Toolbox 
+## 🧰 My Tech Toolbox
 
 <table>
   <tr>
@@ -113,7 +113,7 @@ I'm a passionate Full Stack Flutter and Web Developer and I am interested in dev
   
 ## ✨ Top Languages Card
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-aiymen&layout=compact&theme=tokyonight)
+![Top Langs](https://raw.githubusercontent.com/i-aiymen/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ## 🔥 Streak Stats
 
