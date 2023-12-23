@@ -80,6 +80,16 @@ I'm a passionate Full Stack Flutter and Web Developer and I am interested in dev
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       <br>Tailwind
     </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+       <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="HTML" />
+      <br>Ruby
+    </td>
   </tr>
  <tr>
  <td align="center" width="96">
@@ -106,16 +116,7 @@ I'm a passionate Full Stack Flutter and Web Developer and I am interested in dev
         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
       <br>JQuery
     </td>
-   <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-       <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="HTML" />
-      <br>Ruby
-    </td>
+   
  </tr>
 </table>
 
