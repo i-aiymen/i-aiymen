@@ -3,8 +3,7 @@
 [<img align="center" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 ## 🙋‍♂️ About Me
 
-I'm a passionate Full Stack Flutter and Web Developer and I am interested in developing new things which excite me a lot. I love exploring new technologies and being a practitioner, I like to stay on top of latest trends :)
-
+Experienced Flutter Developer with 3+ years of mobile app development expertise, strong leadership, and problem-solving skills. Committed to delivering innovative solutions and enhancing user experiences.
 
 ## 🧰 My Tech Toolbox
 
