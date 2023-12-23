@@ -20,9 +20,15 @@ I'm a passionate Full Stack Flutter and Web Developer and I am interested in dev
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=go" alt="icon" width="65" height="65" />
       </a>
-      <br>Python
+      <br>Go
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=postgresql" alt="icon" width="65" height="65" />
+      </a>
+      <br>PostgreSQL
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
@@ -57,10 +63,6 @@ I'm a passionate Full Stack Flutter and Web Developer and I am interested in dev
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />
       <br>Github
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="HTML" />
-      <br>Ruby
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="48" height="48" />
@@ -103,6 +105,16 @@ I'm a passionate Full Stack Flutter and Web Developer and I am interested in dev
               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
       <br>JQuery
+    </td>
+   <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+       <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="HTML" />
+      <br>Ruby
     </td>
  </tr>
 </table>
