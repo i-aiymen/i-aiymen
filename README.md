@@ -35,7 +35,7 @@ Experienced Flutter Developer with 3+ years of mobile app development expertise,
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
+      <br>Typescript
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
