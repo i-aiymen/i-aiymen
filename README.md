@@ -3,7 +3,9 @@
 [<img align="center" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 ## 🙋‍♂️ About Me
 
-Experienced Flutter Developer with 3+ years of mobile app development expertise, strong leadership, and problem-solving skills. Committed to delivering innovative solutions and enhancing user experiences.
+ Proficient Flutter Developer with over 3+ years of experience in crafting applications across Android, iOS, web, and
+ Windows. Knownforexceptionalleadership abilities and a strong problem-solving mindset. Committed to developing
+ innovative solutions and refining user experiences.
 
 ## 🧰 My Tech Toolbox
 
@@ -76,8 +78,8 @@ Experienced Flutter Developer with 3+ years of mobile app development expertise,
       <br>CSS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="48" height="48" />
+      <br>Docker
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -85,9 +87,9 @@ Experienced Flutter Developer with 3+ years of mobile app development expertise,
       </a>
       <br>Python
     </td>
-       <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="HTML" />
-      <br>Ruby
+     <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="HTML" />
+      <br>Spring
     </td>
   </tr>
  <tr>
@@ -95,9 +97,21 @@ Experienced Flutter Developer with 3+ years of mobile app development expertise,
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Postman" />
       <br>Node
     </td>
+     <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="HTML" />
+      <br>Ruby
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+    </td>
      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="tailwind" />
       <br>Php
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="48" height="48" />
+      <br>Java
     </td>
      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="tailwind" />
