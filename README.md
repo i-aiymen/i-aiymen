@@ -143,5 +143,7 @@ Proficient Flutter Developer with over 3+ years of experience in crafting applic
 
 ![streaks](https://github-readme-streak-stats.herokuapp.com/?user=i-aiymen&theme=monokai-metallian&hide_border=true)
 
+![contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=i-aiymen&theme=xcode)
+
 [linkedin]: https://www.linkedin.com/in/aiymenlatheef/
 [gmail]: mailto:aiymenlatheef03@gmail.com
