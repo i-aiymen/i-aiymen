@@ -131,6 +131,16 @@ Proficient Flutter Developer with over 3+ years of experience in crafting applic
  </tr>
 </table>
 
+## Flutter Packages Developed
+
+| Package | Pub | Points | Popularity |
+|---------|-----|--------|------------|
+| [windows_toast]() | [![pub package](https://img.shields.io/pub/v/windows_toast.svg)](https://pub.dev/packages/windows_toast) | [![pub points](https://img.shields.io/pub/points/windows_toast)](https://pub.dev/packages/windows_toast/score) | [![popularity](https://img.shields.io/pub/popularity/windows_toast)](https://pub.dev/packages/windows_toast/score)
+| [windows_ime_manager]() | [![pub package](https://img.shields.io/pub/v/windows_ime_manager.svg)](https://pub.dev/packages/windows_ime_manager) | [![pub points](https://img.shields.io/pub/points/windows_ime_manager)](https://pub.dev/packages/windows_ime_manager/score) | [![popularity](https://img.shields.io/pub/popularity/windows_ime_manager)](https://pub.dev/packages/windows_ime_manager/score) |
+| [webview_location]() | [![pub package](https://img.shields.io/pub/v/webview_location.svg)](https://pub.dev/packages/webview_location) | [![pub points](https://img.shields.io/pub/points/webview_location)](https://pub.dev/packages/webview_location/score) | [![popularity](https://img.shields.io/pub/popularity/webview_location)](https://pub.dev/packages/webview_location/score) |
+| [debt_simplification]() | [![pub package](https://img.shields.io/pub/v/debt_simplification.svg)](https://pub.dev/packages/debt_simplification) | [![pub points](https://img.shields.io/pub/points/debt_simplification)](https://pub.dev/packages/debt_simplification/score) | [![popularity](https://img.shields.io/pub/popularity/debt_simplification)](https://pub.dev/packages/debt_simplification/score) |
+
+
 ## 📊 My Github Stats
 
   ![Muhammed Ayimen's GitHub stats](https://raw.githubusercontent.com/i-aiymen/github-stats/master/generated/overview.svg#gh-dark-mode-only)
