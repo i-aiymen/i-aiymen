@@ -3,7 +3,7 @@
 [<img align="center" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 ## 🙋‍♂️ About Me
 
-Proficient Flutter Developer with over 3+ years of experience in crafting applications across Android, iOS, web, and Windows. Known for exceptional leadership abilities and a strong problem-solving mindset. Committed to developing innovative solutions and refining user experiences.
+Proficient Flutter and Web Developer with over 3+ years of experience in crafting applications across Android, iOS, web, and Windows. Known for exceptional leadership abilities and a strong problem-solving mindset. Committed to developing innovative solutions and refining user experiences.
 
 ## 🧰 My Tech Toolbox
 
@@ -38,12 +38,12 @@ Proficient Flutter Developer with over 3+ years of experience in crafting applic
       <br>Typescript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="65" height="65" />
+      <br>Next.js
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-      <br>Rest
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
     </td>
      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="65" height="65" />
@@ -83,12 +83,13 @@ Proficient Flutter Developer with over 3+ years of experience in crafting applic
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
       </a>
-      <br>Python
-    </td>
-     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="HTML" />
-      <br>Spring
-    </td>
+      <br>Python</td>
+       <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="icon" width="65" height="65" />
+      </a>
+      <br>Oracle</td
+    
   </tr>
  <tr>
  <td align="center" width="96">
@@ -119,15 +120,23 @@ Proficient Flutter Developer with over 3+ years of experience in crafting applic
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
     </td>
-            <td align="center" width="96">
+        <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="mysql" />
-      <br>MySQL
+        <br>MySQL
     </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
-      <br>JQuery
     </td>
+     <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="HTML" />
+      <br>Spring
+    </td>
+
    
+ </tr>
+ <tr>
+     <td align="center" width="96">
+    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+      <br>Rest
+    </td>
  </tr>
 </table>
 
