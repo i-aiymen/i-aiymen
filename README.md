@@ -3,7 +3,7 @@
 [<img align="center" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 ## 🙋‍♂️ About Me
 
-Proficient Flutter and Web Developer with over 3+ years of experience in crafting applications across Android, iOS, web, and Windows. Known for exceptional leadership abilities and a strong problem-solving mindset. Committed to developing innovative solutions and refining user experiences.
+Proficient Full stack Flutter and Web Developer with over 3+ years of experience in crafting applications across Android, iOS, web, and Windows. Known for exceptional leadership abilities and a strong problem-solving mindset. Committed to developing innovative solutions and refining user experiences.
 
 ## 🧰 My Tech Toolbox
 
