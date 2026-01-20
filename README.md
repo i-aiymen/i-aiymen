@@ -14,14 +14,6 @@ Lead Engineer and Entrepreneur with exceptional leadership abilities and a stron
 | [webview_location](https://pub.dev/packages/webview_location) | [![pub package](https://img.shields.io/pub/v/webview_location.svg)](https://pub.dev/packages/webview_location) | [![pub points](https://img.shields.io/pub/points/webview_location)](https://pub.dev/packages/webview_location/score) | [![popularity](https://img.shields.io/pub/popularity/webview_location)](https://pub.dev/packages/webview_location/score) |
 | [debt_simplification](https://pub.dev/packages/debt_simplification) | [![pub package](https://img.shields.io/pub/v/debt_simplification.svg)](https://pub.dev/packages/debt_simplification) | [![pub points](https://img.shields.io/pub/points/debt_simplification)](https://pub.dev/packages/debt_simplification/score) | [![popularity](https://img.shields.io/pub/popularity/debt_simplification)](https://pub.dev/packages/debt_simplification/score) |
 
-## Github Stats
-
-![Muhammed Ayimen's GitHub stats](https://raw.githubusercontent.com/i-aiymen/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
-## Streak Stats
-
-![streaks](https://github-readme-streak-stats.herokuapp.com/?user=i-aiymen&theme=monokai-metallian&hide_border=true)
-
 ![contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=i-aiymen&theme=xcode)
 
 [linkedin]: https://www.linkedin.com/in/aiymenlatheef/
